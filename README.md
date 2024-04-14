@@ -1,7 +1,7 @@
-## STYLIE
+# STYLIE
 Stylistic industrial ecology (IE) model: a simple accounting tool for the energy and material service cascade 
 
-# How to use
+## How to use
 Starting point is a dataset on stocks and flows in the energy service cascade for either vehicles or buildings in IAMC form. Such dataset can be provided by a scenario model, such as IAMs.
 Sample data in IAMC form, including the specific variable names, are provided by IAMC_Template_RECCv2.5_SampleData.xlsx.
 
@@ -17,7 +17,7 @@ Finally, by running STYLIE_Buildings.py for buildings and STYLIE_Vehicles for ve
 
 For details on the project, see http://circomod.eu/circomod-data-hub/
 
-# Literature
+## Literature
 Kalt, G., Wiedenhofer, D., Görg, C., & Haberl, H. (2019). Conceptualizing energy services: A review of energy and well-being along the Energy Service Cascade. Energy Research & Social Science, 53, 47–58. https://doi.org/10.1016/j.erss.2019.02.026
 
 
